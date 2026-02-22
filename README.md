@@ -11,7 +11,7 @@ How to install:
 
 clone the repository
 `git clone git@github.com:abristow3/S.P.I.N.S..git`
-`cd S.P.I.N.S.>`
+`cd S.P.I.N.S.`
 
 run the install script
 `./install.sh`
